@@ -1,0 +1,15 @@
+#menu_atas a{
+	text-decoration: none; ;
+	font-size: 15px;
+	color: #fff;
+	font-family: Barlow;
+	font-weight: bold;
+	text-align: center;
+	padding: 20px;	
+}
+#menu_atas a:hover{
+	background: #9c844c;
+	color: white;
+}
+
+
